@@ -1,26 +1,26 @@
 # Output Package Template
 
-Use this template in Phase 6 (final synthesis) to structure the complete adaptation output. All 9 sections are required for every run.
+Use this template in Phase 6 for full adaptation and packaging requests. Use `quick-decision.md` for narrow route / language / format questions.
 
 ---
 
 ## 1. Export Viability Verdict
 
-```
+```text
 - Verdict: [High / Medium / Low] export potential
-- Best market: [US / UK / AU / Europe / Japan / global_anime / LATAM]
-- Best language package: [English-led / Japanese-performance + EN subs / Multilingual]
+- Best market: [target geography or audience cluster]
+- Best language package: [primary language + subtitle / dub setup]
 - Best visual format: [2D motion comic / Anime-style / 3D MetaHuman / Hybrid]
 - Core reason: [One paragraph explaining the verdict]
 ```
 
 ---
 
-## 2. Assumption Table
+## 2. Reasoning Table
 
 Use the template from [`assumption-table.md`](assumption-table.md).
 
-| Assumption | Type | Confidence | Why It Matters |
+| Signal | Type | Confidence | Why It Matters |
 |---|---|---|---|
 | | fact / inference / assumption | high / medium / low | |
 
@@ -42,7 +42,7 @@ Use the template from [`adaptation-memo.md`](adaptation-memo.md).
 
 Choose one route and justify:
 
-**Chosen route:** [English-led export / Japanese-performative export / Multilingual layered release]
+**Chosen route:** [Anglophone premium export / Performance-led subculture export / Region-first localized launch / Multilingual layered release]
 
 **Justification:**
 - Audience fit:
@@ -66,7 +66,7 @@ Choose one route and justify:
 3.
 
 ### Revised Character Bios
-- **[Character Name]** — [Role] / [Archetype] / [1-2 sentence bio]
+- **[Character Name]** - [Role] / [Archetype] / [1-2 sentence bio]
 
 ### Revised Setting Notes
 [Where and when the story takes place, adapted for international legibility]

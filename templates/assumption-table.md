@@ -1,8 +1,8 @@
-# Assumption Table Template
+# Reasoning Table Template
 
-List all assumptions, inferences, and key facts that inform the adaptation. Each entry must state confidence level and why it matters for the project.
+List the facts, inferences, and assumptions that inform the adaptation. Each entry must state confidence level and why it matters for the project.
 
-| Assumption | Type | Confidence | Why It Matters |
+| Signal | Type | Confidence | Why It Matters |
 |---|---|---|---|
 | | fact / inference / assumption | high / medium / low | |
 
@@ -10,4 +10,4 @@ List all assumptions, inferences, and key facts that inform the adaptation. Each
 
 - **Fact**: Directly stated in the source material or confirmed by the user
 - **Inference**: Derived from available evidence but not explicitly stated
-- **Assumption**: Belief adopted to move forward despite insufficient evidence — must be flagged for user validation
+- **Assumption**: Belief adopted to move forward despite insufficient evidence - must be flagged for user validation

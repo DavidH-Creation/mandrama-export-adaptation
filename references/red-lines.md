@@ -1,10 +1,10 @@
-# Red Lines — Hard Constraints
+# Red Lines - Hard Constraints
 
 Check every adaptation against these 6 red flags. If any are detected, flag and correct before finalizing.
 
 ---
 
-## Red Flag 1 — Literalism
+## Red Flag 1 - Literalism
 
 **Detection:** The rewrite looks like translation instead of adaptation. Sentence structures mirror Chinese. Idioms are translated word-for-word. Lines sound stiff in the target language.
 
@@ -12,7 +12,7 @@ Check every adaptation against these 6 red flags. If any are detected, flag and 
 
 ---
 
-## Red Flag 2 — Culture Dependence
+## Red Flag 2 - Culture Dependence
 
 **Detection:** Plot clarity depends on Chinese social assumptions not explained in-scene. The audience must already understand Chinese family hierarchy, workplace norms, marriage customs, or internet culture to follow the story.
 
@@ -20,7 +20,7 @@ Check every adaptation against these 6 red flags. If any are detected, flag and 
 
 ---
 
-## Red Flag 3 — Tone Mismatch
+## Red Flag 3 - Tone Mismatch
 
 **Detection:** A photoreal visual plan is proposed for a campy, exaggerated, or melodramatic script tone. The production format clashes with the emotional register of the writing.
 
@@ -28,7 +28,7 @@ Check every adaptation against these 6 red flags. If any are detected, flag and 
 
 ---
 
-## Red Flag 4 — Uncanny Valley Risk
+## Red Flag 4 - Uncanny Valley Risk
 
 **Detection:** 3D realism is proposed but the emotional acting bandwidth is insufficient. Subtle facial performances, nuanced reactions, or intimate moments will fall flat in current-gen 3D rendering.
 
@@ -36,15 +36,15 @@ Check every adaptation against these 6 red flags. If any are detected, flag and 
 
 ---
 
-## Red Flag 5 — Language/Market Mismatch
+## Red Flag 5 - Language/Market Mismatch
 
-**Detection:** The target market is premium English ad market (US/UK/AU) but the release package is Chinese-primary with English subtitles as an afterthought. Or: the release package language does not match the monetization strategy.
+**Detection:** The chosen release package language does not match the actual monetization strategy or target audience. Example: premium English ad markets with Chinese-primary packaging, or a LATAM-first plan with English-only discovery assets.
 
-**Action:** Flag as monetization mismatch. Realign the language package to the target ad market. English-speaking CPM markets require English-first packaging.
+**Action:** Flag as monetization mismatch. Realign the language package to the target market. The headline language should follow revenue logic, not habit.
 
 ---
 
-## Red Flag 6 — Sponsor Unsafety
+## Red Flag 6 - Sponsor Unsafety
 
 **Detection:** The core premise depends on abuse fetishization, non-consensual dynamics, exploitative content involving minors, hate content, or other sponsor-toxic material that makes brand integration impossible.
 
