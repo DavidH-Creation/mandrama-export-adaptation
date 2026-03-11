@@ -1,5 +1,13 @@
 # mandrama-export-adaptation
 
+> Export adaptation strategy skill for Chinese web dramas and manhua dramas.
+
+## 导览 / Overview
+
+- 中文说明见下方 `中文`
+- English documentation starts at `English`
+- 核心目录：`SKILL.md`、`references/`、`templates/`、`examples/`
+
 ## 中文
 
 把中国本土优先的网剧和漫剧，转成适合海外市场的国际化输出方案。
@@ -77,9 +85,15 @@ Reject for now: Japanese-performance route because the material is luxury reveng
 - 市场、语言和形式都已经锁定，只需要逐行修稿的团队
 - 法务、版权或发行谈判建议
 
-### 安装
+### 安装方式
 
-把这个 skill 加入你的 Claude Code：
+#### Codex
+
+```bash
+git clone https://github.com/DavidH-Creation/mandrama-export-adaptation.git ~/.codex/skills/mandrama-export-adaptation
+```
+
+#### Claude Code
 
 ```bash
 git clone https://github.com/DavidH-Creation/mandrama-export-adaptation.git ~/.claude/skills/mandrama-export-adaptation
@@ -104,7 +118,7 @@ git clone https://github.com/DavidH-Creation/mandrama-export-adaptation.git ~/.c
 - `examples/quick-route-decision.md`
 - `examples/full-adaptation-package.md`
 
-### 文件结构
+### 仓库结构
 
 ```text
 SKILL.md                          # Entry point - workflow and resource routing
@@ -213,7 +227,13 @@ See full sample outputs in `examples/`.
 
 ### Installation
 
-Add this skill to your Claude Code setup:
+#### Codex
+
+```bash
+git clone https://github.com/DavidH-Creation/mandrama-export-adaptation.git ~/.codex/skills/mandrama-export-adaptation
+```
+
+#### Claude Code
 
 ```bash
 git clone https://github.com/DavidH-Creation/mandrama-export-adaptation.git ~/.claude/skills/mandrama-export-adaptation
@@ -238,7 +258,7 @@ For narrow route-selection questions, the skill can answer with a short decision
 - `examples/quick-route-decision.md`
 - `examples/full-adaptation-package.md`
 
-### File Structure
+### Repository Structure
 
 ```text
 SKILL.md                          # Entry point - workflow and resource routing
